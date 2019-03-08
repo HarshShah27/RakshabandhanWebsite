@@ -81,5 +81,31 @@ p {
     width: 100%;
     margin: 0;
     position: relative;
-    background-color: chocolate;
+}
+
+.history1 {
+    height: 85%;
+    width: 45%;
+    display: inline-block;
+    position: absolute;
+    margin: auto;
+    top:0;
+    bottom: 0;
+    margin-left: 50px;
+        text-align: center;
+
+}
+
+.history2 {
+   height: 63%;
+   width: 44%;
+   display: inline-block;
+   position: absolute;
+   margin: auto;
+   top:0;
+   /* float: right; */
+   right: 50px;
+   bottom: 0;
+   background-image: url(../images/god.jpg);
+   /* margin-left: 50px; */
 }
